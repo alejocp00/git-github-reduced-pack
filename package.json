@@ -1,0 +1,25 @@
+{
+  "name": "git-github-reduced-pack",
+  "displayName": ":Git & GitHub reduced pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/git-github-reduced-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/git-github-reduced-pack/issues"
+  },
+  "description": "A collection of the essentials Git + GitHub extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "github.vscode-pull-request-github",
+    "codezombiech.gitignore",
+    "mhutchie.git-graph"
+  ]
+}
